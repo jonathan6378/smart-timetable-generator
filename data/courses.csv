@@ -1,0 +1,9 @@
+course_id,course_name,teacher_id,students
+C01,Data Structures,T01,45
+C02,Machine Learning,T02,35
+C03,Database Systems,T03,40
+C04,Computer Networks,T04,38
+C05,Artificial Intelligence,T02,30
+C06,Operating Systems,T01,50
+C07,Software Engineering,T03,42
+C08,Web Development,T04,32

@@ -1,0 +1,3 @@
+Core GA test passed.
+Final fitness: 1.000
+Generations: 1
