@@ -53,4 +53,4 @@ Python • Genetic Algorithms • Optimization • Constraint Handling • Tkint
 ## Future Improvements
 Student-group constraints, teacher availability, breaks, multi-objective optimization, timetable heatmaps, unit tests and CI.
 
-**GitHub:** https://github.com/YOUR_USERNAME/smart-timetable-generator
+**GitHub:** https://github.com/jonathan6378/smart-timetable-generator
