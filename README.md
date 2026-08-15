@@ -33,8 +33,8 @@ python main.py
 
 Click **Generate Timetable**, then use **Export Excel** or **Export PDF**.
 
-## Project Structure
-```text
+## PROJECT STRUCTURE 
+
 smart-timetable-generator/
 ├── data/
 ├── results/
