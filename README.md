@@ -2,7 +2,7 @@
 
 A portfolio-ready desktop application that generates conflict-aware academic timetables using a **Genetic Algorithm**.
 
-## Features
+## feature 
 - Genetic Algorithm optimization
 - Teacher and room clash penalties
 - Room-capacity constraints
@@ -23,7 +23,7 @@ Each chromosome contains one gene per course:
 Fitness:
 `fitness = 1 / (1 + total_penalty)`
 
-## Run on Windows
+## Run on windows
 ```powershell
 python -m venv venv
 venv\Scripts\activate
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Click **Generate Timetable**, then use **Export Excel** or **Export PDF**.
+Click **Generate Timetable**, then use "Export Excel" or "Export PDF".
 
 ## PROJECT STRUCTURE 
 
